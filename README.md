@@ -7,11 +7,14 @@
 ## Sprint # 1
 
 ### Historias de Usuario
-2023-03-17 (3).png
+
+<img src="Historia1.png" width="200">
+
+
 
 
 ### Historia Tecnica
-2023-03-17 (4).png
+<img src="Historia2.png" width="200">
 
 
 
