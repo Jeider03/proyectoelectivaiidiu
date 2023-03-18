@@ -8,13 +8,14 @@
 
 ### Historias de Usuario
 
-<img src="Historia1.png" width="200">
+<img src="https://drive.google.com/file/d/175s-4FGeMUL2HY5A7uu66plMWEhzKOez/view" /></a>
+
 
 
 
 
 ### Historia Tecnica
-<img src="Historia2.png" width="200">
+<img src="https://drive.google.com/file/d/1jTDxqTp290krm53vQIUiyLRXqUZc75ag/view" /></a>
 
 
 
