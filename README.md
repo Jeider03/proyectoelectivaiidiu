@@ -1,3 +1,22 @@
+# Proyecto Electiva Disciplinar II - Backend
+
+## Integrantes
+
+* Nombres Apellidos [Jeider03](https://github.com/Jeider03)
+
+## Sprint # 1
+
+### Historias de Usuario
+2023-03-17 (3).png
+
+
+### Historia Tecnica
+2023-03-17 (4).png
+
+
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
